@@ -22,7 +22,7 @@ The namespace, management_topic and frequency can be changed through command lin
 
 Example of use:
 ```
-roslaunch cafer_core basic_example_new_node.launch ns=my_ns management_topic:=my_mgmt
+roslaunch cafer_core basic_example_new_node.launch ns:=my_ns management_topic:=my_mgmt
 ```
 
 Launch set nodes
